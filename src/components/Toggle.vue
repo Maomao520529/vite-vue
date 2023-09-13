@@ -1,4 +1,5 @@
 <template>
+  <!-- 優化不錯 -->
     <div
         class="gdb-input"
         :class="{
