@@ -7,7 +7,7 @@ import { RouterLink, RouterView } from 'vue-router'
    <div class="wrapper">
       <nav class="d-flex justify-content-evenly">
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <!-- <RouterLink to="/about">About</RouterLink> -->
         <!-- <RouterLink to="/toggle">Toggle</RouterLink> -->
       </nav>
        <RouterView />
