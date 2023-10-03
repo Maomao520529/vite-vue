@@ -1,10 +1,10 @@
 <script setup>
-import WelcomeItem from '../components/WelcomeItem.vue'
+import About from '../components/About.vue'
 </script>
 
 <template>
   <main>
-    <WelcomeItem />
+    <About />
   </main>
 </template>
 

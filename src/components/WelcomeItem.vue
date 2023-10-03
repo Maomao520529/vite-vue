@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="welcomeitem">
     <div class="row gy-2 gx-3 align-items-center mt-5" v-for="(value, index) in weekDay">
       <div class="col-auto" >
         <div class=" ">{{ value }}</div>
