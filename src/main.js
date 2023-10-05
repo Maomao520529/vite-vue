@@ -8,6 +8,9 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
+import 'viewerjs/dist/viewer.css'
+import VueViewer from 'v-viewer'
+
 
 import App from './App.vue'
 import router from './router'
@@ -18,5 +21,8 @@ app.use(createPinia())
 app.use(router)
 app.use(VueAxios, axios)
 app.use(ElementPlus)
+app.use(VueViewer)
+
+
 
 app.mount('#app')
