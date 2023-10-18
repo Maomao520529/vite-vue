@@ -11,11 +11,14 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="col  d-flex justify-content-center">
+            <div class="col  d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
-                    <img src="../assets/花好月圓(櫻花Fly).png" class="card-img-top" alt="花好月圓" v-viewer>
+                    <img src="../assets/ART擬態頁設計.jpg" class="card-img-top" alt="ART擬態頁設計" v-viewer>
+                    <div class="card-body ">
+                        <a href="https://www.figma.com/community/file/1296481888531950151/art" target="_blank" class="text-dark text-decoration-none">ART 擬態頁設計👆</a>
+                    </div>
                 </div>
-            </div> -->
+            </div>
         </div>
         <h1 class="text-center mt-5">海報製作</h1>
         <div class="row row-cols-md-3 g-4 my-3 mt-3">
