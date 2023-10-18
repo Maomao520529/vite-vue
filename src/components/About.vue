@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div class="col  d-flex justify-content-center">
-                <div class="card" style="width: 18rem;">
+                <div class="card text-center border-light" style="width: 18rem;">
                     <img src="../assets/ART擬態頁設計.jpg" class="card-img-top" alt="ART擬態頁設計" v-viewer>
                     <div class="card-body ">
                         <a href="https://www.figma.com/community/file/1296481888531950151/art" target="_blank" class="text-dark text-decoration-none">ART 擬態頁設計👆</a>
