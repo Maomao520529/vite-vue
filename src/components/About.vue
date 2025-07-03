@@ -47,6 +47,16 @@
                     <img src="../assets/2-5.png" class="card-img-top" alt="懷舊時光" v-viewer>
                 </div>
             </div>
+             <div class="col d-flex justify-content-center">
+                <div class="card border-light" style="width: 18rem;">
+                    <img src="../assets/靠枕海報.png" class="card-img-top" alt="靠枕海報" v-viewer>
+                </div>
+            </div>
+             <div class="col d-flex justify-content-center">
+                <div class="card border-light" style="width: 18rem;">
+                    <img src="../assets/靠枕海報0520.png" class="card-img-top" alt="靠枕海報0520" v-viewer>
+                </div>
+            </div>
         </div>
         <h1 class="text-center mt-5">Banner 製作</h1>
         <div class="row row-cols-md-3 g-4 my-3 mt-3">
